@@ -1,0 +1,9 @@
+streamlit==1.42.2
+langchain==0.3.19
+pinecone==5.4.2
+ollama==0.4.7
+langchain-community==0.3.18
+langchain-ollama==0.2.3
+langchain-text-splitters==0.3.6
+unstructured==0.16.23
+python-dotenv==1.0.1
