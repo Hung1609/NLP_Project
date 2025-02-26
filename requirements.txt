@@ -5,5 +5,7 @@ ollama==0.4.7
 langchain-community==0.3.18
 langchain-ollama==0.2.3
 langchain-text-splitters==0.3.6
+langchain-core==0.3.37
 unstructured==0.16.23
 python-dotenv==1.0.1
+torch==2.6.0
